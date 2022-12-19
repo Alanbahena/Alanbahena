@@ -2,7 +2,7 @@ Hi there 👋🏻
 My name is Alan Bahena and I'm an Engineer with a BA in Management for Engineering ⚙️💻🔋 
 
 I'm passionate about building amazing web & mobile applications. I'm specialized in web front-end development with significant experience working with
-HTML 5, CSS 3, Javascript, React,js, and iOS development with Swift & Xcode. 
+HTML 5, CSS 3, Sass, Javascript, React,js, and iOS development with Swift & Xcode. 
 I'm also proficient with design engineering (Animations, Layout Design, Prototypes & Mockups) with Figma, Adobe XD, Adobe Photoshop, Adobe Premier Pro & Adobe
 After Effects. 
 
