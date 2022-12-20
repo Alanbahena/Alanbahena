@@ -6,7 +6,7 @@ HTML 5, CSS 3, Sass, Javascript, React,js, and iOS development with Swift & Xcod
 I'm also proficient with design engineering (Animations, Layout Design, Prototypes & Mockups) with Figma, Adobe XD, Adobe Photoshop, Adobe Premier Pro & Adobe
 After Effects. 
 
-👀 I’m interested in helping the world to design, develop and launch successful and softwares. 
+👀 I’m interested in helping the world to design, develop and launch successful softwares. 
 
 🌱 I’m currently enhancing my skills as a full-stack developer learning complex features in Next.JS & Node.js. 
 
